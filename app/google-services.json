@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "454318988119",
+    "firebase_url": "https://socialmedia-ad4c4.firebaseio.com",
+    "project_id": "socialmedia-ad4c4",
+    "storage_bucket": "socialmedia-ad4c4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:454318988119:android:6cc0ca3e317dc046d47c12",
+        "android_client_info": {
+          "package_name": "com.princeabdurrahman.instagram"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "454318988119-g000g62hmctpgb5kmsh8jv28kppughp2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.princeabdurrahman.instagram",
+            "certificate_hash": "7aca92bb95801add27a1e9bd9481bfd0f5ebf7b9"
+          }
+        },
+        {
+          "client_id": "454318988119-a7g0r75rt9n16guj6hokaphn74hbmepf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcNm7p_nX0aIRPTjNp-rltPCO1DOeR9To"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "454318988119-a7g0r75rt9n16guj6hokaphn74hbmepf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
